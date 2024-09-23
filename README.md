@@ -1,22 +1,19 @@
-# web
 
-## Project setup
+# 英文學習筆記網站
+> 整合Django, SQLite, Vue JS實作一個學習筆記本<br>
+> 此為Vue前端開發部分。<br>
+
+📝 &nbsp; 相關文件：
+[全端實作-Django+VueJS](https://jacychu.medium.com/%E5%85%A8%E7%AB%AF%E5%AF%A6%E4%BD%9C-dango-vuejs-30e2c139db26)
+
+🚀 &nbsp; 快速開始：<br>
+- 安裝相依套件
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+- 啟動開發伺服器
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 
 ✨ 查看英文學習筆記網站:  [https://vue-my-notebook.vercel.app/alldata](https://vue-my-notebook.vercel.app/alldata)
